@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+export const revalidate = 0; // phòng Next vẫn cố SSG
 import Hero from '@/components/Hero'; import BookingWidget from '@/components/BookingWidget';
 import Section from '@/components/Section'; import JsonLd from '@/lib/schema'; import {site} from '@/lib/metadata'; import Link from 'next/link';
 export default function HomePage(){
