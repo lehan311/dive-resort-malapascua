@@ -1,8 +1,7 @@
-// i18n.ts
-import {getRequestConfig} from 'next-intl/server';
+import { defineConfig } from 'next-intl';
 
-export default getRequestConfig(async ({locale}) => {
-  return {
-    messages: (await import(`./messages/${locale}.json`)).default
-  };
+export default defineConfig({
+  locales: ['en', 'vi'],
+  defaultLocale: 'en',
+  messagesDir: './messages',
 });
