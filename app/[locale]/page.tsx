@@ -1,6 +1,5 @@
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
-
 export default function ContactPage() {
   return (
     <section className="container mx-auto max-w-3xl py-10">
