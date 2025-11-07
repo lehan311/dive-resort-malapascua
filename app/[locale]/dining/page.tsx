@@ -1,0 +1,1 @@
+export default function Dining(){return <div className='container py-16'>Dining placeholder</div>}

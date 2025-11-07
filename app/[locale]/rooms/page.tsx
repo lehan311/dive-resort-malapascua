@@ -1,0 +1,1 @@
+export default function Rooms(){return <div className='container py-16'>Rooms placeholder</div>}

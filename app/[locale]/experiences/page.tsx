@@ -1,0 +1,1 @@
+export default function Exp(){return <div className='container py-16'>Experiences placeholder</div>}

@@ -1,0 +1,1 @@
+export default function Offers(){return <div className='container py-16'>Offers placeholder</div>}

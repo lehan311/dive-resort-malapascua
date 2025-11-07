@@ -1,0 +1,41 @@
+{
+  "brand": "Dive Resort Malapascua",
+  "nav": {
+    "rooms": "Phòng",
+    "dining": "Resort",
+    "experiences": "Lặn biển",
+    "offers": "Liên hệ",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "title": "Khu nghỉ 5 sao cho tín đồ lặn biển và người yêu biển đảo",
+    "subtitle": "Thủ phủ lặn cá mập đuôi dài tại Monad Shoal—bước chân là chạm cát, trở về là chạm xa hoa.",
+    "book": "Đặt phòng",
+    "explore": "Khám phá"
+  },
+  "booking": {
+    "checkin": "Nhận phòng",
+    "checkout": "Trả phòng",
+    "guests": "Khách",
+    "promo": "Mã ưu đãi",
+    "search": "Kiểm tra phòng trống"
+  },
+  "home": {
+    "usp1": "Vị trí sát biển",
+    "usp2": "Ẩm thực đặc sắc",
+    "usp3": "Trải nghiệm riêng tư"
+  },
+  "footer": {
+    "address": "Logon Beachfront, Đảo Malapascua, Daanbantayan, Cebu, Philippines",
+    "rights": "Đã đăng ký bản quyền."
+  },
+  "contact": {
+    "title": "Concierge & Liên hệ",
+    "subtitle": "Hãy cho chúng tôi biết nhu cầu của bạn—đội ngũ sẽ lo phần còn lại.",
+    "name": "Họ và tên",
+    "email": "Email",
+    "message": "Lời nhắn",
+    "send": "Gửi yêu cầu",
+    "success": "Cảm ơn bạn. Chúng tôi sẽ phản hồi sớm."
+  }
+}

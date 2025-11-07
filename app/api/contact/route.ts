@@ -1,0 +1,1 @@
+export async function POST(request: Request){ const fd=await request.formData(); const payload=Object.fromEntries(fd.entries()); console.log('Contact form submission:', payload); return Response.json({ok:true}); }
