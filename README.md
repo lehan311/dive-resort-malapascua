@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23411387/README.md)
 # Dive Resort Malapascua – Website Starter (EN/VI)
 
 - Next.js 14 + Tailwind
